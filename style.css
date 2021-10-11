@@ -1,0 +1,13 @@
+h1{
+    text-align:center;
+    color: cornsilk;
+    font-family: "Times New Roman";
+    font-weight: bold;
+}
+body{
+    background-color:grey;
+}
+img{
+    box-shadow: 10px 10px 5px dimgray;
+    border-radius: 2%;
+}
